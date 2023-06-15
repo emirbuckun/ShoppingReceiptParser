@@ -8,7 +8,7 @@
 
 ## Example Image
 
-![image](https://github.com/emirbuckun/ShoppingReceiptParser/assets/63044078/0c6a6181-7271-4b4c-9090-86127e4a6ccc)
+![image](https://github.com/emirbuckun/ShoppingReceiptParser/assets/63044078/828436db-980b-47db-b787-c0cf546c7f8e)
 
 
 ## Run
